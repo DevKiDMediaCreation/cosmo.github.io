@@ -1,7 +1,7 @@
 # cosmo.github.io/ch
 請訪問[站點](https://devkidmediacreation.github.io/cosmo.github.io/ch)將其作為站點查看。
 
-请访问[站点](https://devkidmediacreation.github.io/cosmo.github.io/)将其作为站点查看。
+请访问[站点](https://devkidmediacreation.github.io/cosmo.github.io/ch)将其作为站点查看。
 
 網站/站点：https://devkidmediacreation.github.io/cosmo.github.io/ch
 
