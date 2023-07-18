@@ -10,7 +10,11 @@ Cosinos
 Cosinus Enviourment Syntax
 
 Common Cosmolang
+
 Cosmo Lingua Token Programming Language
+
 Low Cosmo
+
 High Cosmolang
+
 Down Cosmolang
