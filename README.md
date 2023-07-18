@@ -1,5 +1,5 @@
 # cosmo.github.io
-Please go to [Webpage](https://devkidmediacreation.github.io/cosmo.github.io/) to see it as webpage.
+Please go to [Website](https://devkidmediacreation.github.io/cosmo.github.io/) to see it as website.
 
 Webpage: https://devkidmediacreation.github.io/cosmo.github.io/
 
