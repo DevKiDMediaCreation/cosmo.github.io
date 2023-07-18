@@ -1,6 +1,8 @@
 # cosmo.github.io/jp
 オンライン プラットフォームとしてご覧になるには、[ウェブサイト](https://devkidmediacreation.github.io/cosmo.github.io/jp) にアクセスしてください。
 
+Web サイトとして表示するには、[Web サイト](https://devkidmediacreation.github.io/cosmo.github.io/jp) にアクセスしてください。
+
 ウェブサイト: https://devkidmediacreation.github.io/cosmo.github.io/jp
 
 コンタクト
