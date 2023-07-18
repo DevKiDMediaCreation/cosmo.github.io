@@ -1,5 +1,5 @@
 # cosmo.github.io/de
-Bitte besuchen Sie die [Website](https://devkidmediacreation.github.io/cosmo.github.io/de), um sie als Online-Plattform zu betrachten.
+Bitte besuchen Sie die [Website](https://devkidmediacreation.github.io/cosmo.github.io/de), um sie als Webseite zu sehen.
 
 Webseite: https://devkidmediacreation.github.io/cosmo.github.io/de
 
