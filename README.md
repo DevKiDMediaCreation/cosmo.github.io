@@ -1,16 +1,6 @@
 # cosmo.github.io
-All Cosmo Lingua documentation
+Please go to https://devkidmediacreation.github.io/cosmo.github.io/ to see it as webpage.
 
-Cosmolang Syntax
-
-Cosina Boot Entry Point Syntax
-
-Cosinos
-
-Cosinus Enviourment Syntax
-
-Common Cosmolang
-Cosmo Lingua Token Programming Language
-Low Cosmo
-High Cosmolang
-Down Cosmolang
+# Contact
+> **Note** The Service is not avaible because the support was stop and will begin again on the day 12-1-2024 (MM-DD-YYYY) UTC+1 CET
+cosmolang+support@cosmoligua.com
