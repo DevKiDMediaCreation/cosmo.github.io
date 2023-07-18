@@ -7,4 +7,4 @@ Web サイトとして表示するには、[Web サイト](https://devkidmediacr
 
 コンタクト
 > **お知らせ** サポート終了のため、サービスをご利用いただけません。 サービスは 01/12/2024 (DD-MM-YYYY) UTC+1 CET に再開されます。
-コスモ+スぽト@cosmoligua.com
+コスモ+サポート@cosmoligua.com
