@@ -2,7 +2,7 @@
 All Cosmo Lingua documentation
 
 ## Cosmolang Syntax
-[Common Cosmolang Syntax Underscore 10th](https://devkidmediacreation.github.io/cosmo.github.io/en/ccsu10th)
+[Common Cosmolang Syntax Underscore 10th (CCSU10th)](https://devkidmediacreation.github.io/cosmo.github.io/en/ccsu10th)
 
 Cosina Boot Entry Point Syntax
 
