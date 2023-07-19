@@ -8,7 +8,7 @@ Cosina Boot Entry Point Syntax
 
 Cosinos
 
-Cosinus Enviourment Syntax
+Cosinus Environment Syntax
 
 Common Cosmolang
 
